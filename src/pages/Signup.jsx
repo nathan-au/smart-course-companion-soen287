@@ -3,7 +3,7 @@ function Signup() {
         <>
             <div className="min-h-screen flex flex-col justify-center items-center">
                 <fieldset className="fieldset bg-base-200 border-base-300 rounded-box w-xs border p-4">
-                    <legend className="fieldset-legend">Sign Up</legend>
+                    <legend className="fieldset-legend">New </legend>
 
                     <label className="label">Name</label>
                     <input type="text" className="input" placeholder="Name" />
