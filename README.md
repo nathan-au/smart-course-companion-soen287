@@ -113,7 +113,7 @@ node seed.js
 | Role | Email | Password |
 |---|---|---|
 | Admin | admin@mail.com | 123 |
-| Student | nathan@mail.com | 123 |
+| Student | student@mail.com | 123 |
 
 ### 3. Start the Backend Server
 
